@@ -1,2 +1,2 @@
-# blackboxai-1743711854021
+# blackboxai
 Built by https://www.blackbox.ai
